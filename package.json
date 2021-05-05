@@ -1,6 +1,6 @@
 {
   "name": "butler-snackbar",
-  "version": "0.1.5",
+  "version": "0.1.7",
   "private": false,
   "description": "A snackbar for Vue 2",
   "keywords": [
@@ -47,7 +47,9 @@
     "parserOptions": {
       "parser": "babel-eslint"
     },
-    "rules": {}
+    "rules": {
+      "no-unused-vars": "off"
+    }
   },
   "browserslist": [
     "> 1%",

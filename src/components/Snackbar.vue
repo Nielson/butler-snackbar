@@ -22,6 +22,8 @@
 import Bus, { ACTIONS } from '../eventbus';
 
 export default {
+    name: 'Snackbar',
+    
     data(){
         return {
             timeout: 5000,

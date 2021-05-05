@@ -2,7 +2,7 @@ import Bus, { ACTIONS } from './eventbus.js';
 import Snackbar from './components/Snackbar';
 
 const ButlerSnackbar = {
-    install(Vue) {
+    install(Vue, options) {
         Vue.component('b-snackbar', Snackbar);
 
         Vue.prototype.$openSnackbar = data => {
