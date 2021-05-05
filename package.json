@@ -4,7 +4,8 @@
   "private": false,
   "description": "A snackbar for Vue 2",
   "keywords": [
-    "Butler", "Snackbar"
+    "Butler",
+    "Snackbar"
   ],
   "author": "Malte Nielson Hoberg",
   "email": "maltenielson@me.com",
