@@ -2,7 +2,7 @@
   "name": "butler-snackbar",
   "version": "0.1.4",
   "private": false,
-  "description": "A package with small UI components for Vue 2",
+  "description": "A snackbar for Vue 2",
   "keywords": [
     "Butler", "Snackbar"
   ],
